@@ -186,6 +186,7 @@ class IATheme {
           color: IAColors.black,
           fontSize: 5.8.pW,
           fontWeight: FontWeight.w400,
+
         ),
       ),
 
